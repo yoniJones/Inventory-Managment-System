@@ -161,12 +161,17 @@ public class MainScreenController implements Initializable {
     @FXML
     void AddProduct(MouseEvent event) {
         try{
+            System.out.println("a");
             FXMLLoader loader = new FXMLLoader(getClass().getResource("AddProduct.fxml"));
+            System.out.println("b");
             View.AddProductController controller = new AddProductController(inv);
-            
+            System.out.println("1");
             loader.setController(controller);
+            System.out.println("2");
             Parent root = loader.load();
+            System.out.println("3");
             Scene scene = new Scene(root);
+            System.out.println("4");
             Stage stage = (Stage)((Node)event.getSource()).getScene().getWindow();
             stage.setScene(scene);
             stage.setResizable(false);
