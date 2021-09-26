@@ -1,5 +1,5 @@
 # Inventory-Managment-System
-A JavaFX Inventory System
+<3>JavaFX Inventory System<3>
 
 *1. Main screen 
 The user has the option to search, add, modify, and delete for both "parts" and "Products"
