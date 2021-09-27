@@ -1,7 +1,10 @@
 # Inventory-Managment-System
 
+<p>Inventory management system is a JavaFx project that was degined to keep track of products and their associated parts. With this program one would be able to quiqly lookup parts and pruducts, view quantity, and detrimine if they are outsourced or in-house. Also, this software allows for adding or deleting products to the inventory. This  program was designed to look clean and insure data integrity <\p>
 
-*1. Main screen 
+*
+
+1. Main screen 
 The user has the option to search, add, modify, and delete for both "parts" and "Products"
 
 *2. “Add Part” screen
