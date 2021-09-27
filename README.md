@@ -4,7 +4,8 @@
 
 * Main screen 
 <p>The user has the option to search, add, modify, and delete for both "parts" and "Products"<p>
- ![](../nbproject/UI_pictures/main.PNG)
+ ![GitHub Logo](/UI_pictures/main.PNG)
+
 
 *2. “Add Part” screen
 The user has the option to select “In-House” or “Outsourced” to categorize the part.  If the user selects “Outsourced,” the “Company Name” field is available.
